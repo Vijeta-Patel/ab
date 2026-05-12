@@ -1,3 +1,4 @@
+net stop jenkins
 install java21 jdk
 Download Jenkins
 Jenkins setup

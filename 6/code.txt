@@ -1,0 +1,6 @@
+new item 
+freestyle project
+build steps
+Clean install 
+add pom.xml path
+build now
