@@ -1,0 +1,4 @@
+gradle init --type java-application
+gradle build
+gradle test
+gradle clean
